@@ -5,6 +5,7 @@ title: "literature-extraction-student: A Claude skill for learning data extracti
 version: 1.0.0
 date-released: 2026-11-20
 license: MIT
+doi: 10.5281/zenodo.24388715
 repository-code: "https://github.com/rnrnrnn1234/literature-extraction-student"
 abstract: >-
   A Claude skill for students learning data extraction for systematic reviews.
